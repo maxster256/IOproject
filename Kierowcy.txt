@@ -1,0 +1,2 @@
+0 kierowca1 12345 Jan Kowalski 3 0 540 0
+1 kierowca2 qwerty Damian Nowak 3 0 540 0
